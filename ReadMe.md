@@ -1,4 +1,4 @@
-# 💫 Um breve resumo da minha história e o que busco.
+# 💫 Um breve resumo da minha história e o que estou buscando!
 Estudante de Back-End, em transição de carreira, após alguns anos atuando como Biomédico.<br>Sempre mantive o interesse em tecnologia e desenvolvimento.<br>Atualmente estou a procura do meu primeiro estágio ou serviço clt e considero também o freelancer.<br>Tenho muito a desenvolver e estou aberto a parcerias e troca de conhecimentos.<br>Realizo o curso de Desenvolvimento de Sistemas no SENAC via EAD, além de cursos na Udemy.
 
 
